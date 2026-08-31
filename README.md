@@ -1,5 +1,9 @@
 # WOIDE
 
+## Student Project open for Adption
+
+WOIDE was created as a student project by Aurelius Adrian, who has since moved on to greener pastures. FlexiFormal (FTML, FLAMS, ALeA, ...) is moving on, and WOIDE should move with it. The software is open for adoption (we could use help; contact the FlexiFormal owners if you are interested). 
+
 ## A Word OMDoc IDE
 
 This plugin provides the necessary functionality to create semantic annotations within Microsoft Office Word documents.
